@@ -1,0 +1,55 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: #f4f4f4e2; 
+}
+
+
+nav {
+    background-color: #790909; 
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+h1, h2 {
+    text-align: center;
+}
+
+
+p {
+    text-align: center;
+}
+
+
+section {
+    padding: 30px;
+}
+
+nav a:hover {
+    color: orange;
+}
+.card {
+    border: 1px solid gray;
+    padding: 15px;
+    width: 250px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: white;
+}
+#skills ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+#skills li {
+    margin: 6px 0;
+}
